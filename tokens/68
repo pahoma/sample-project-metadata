@@ -1,11 +1,11 @@
 {
-    "id": 2,
-    "image": "https://pahoma.github.io/sample-project-metadata/tokens/token2.webp",
-    "token_id": "2",
+    "id": 68,
+    "image": "https://pahoma.github.io/sample-project-metadata/tokens/token68.webp",
+    "token_id": "68",
     "background_color": null,
     "animation_url": null,
     "youtube_url": null,
-    "name": "Test zkEVM NFT #2",
+    "name": "Test zkEVM NFT #68",
     "description": "This NFT is my second Immutable zkEVM NFT",
     "external_url": null,
     "attributes": [
