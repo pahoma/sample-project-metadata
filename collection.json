@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
+    "name": "zkEVM Cards",
+    "description": "Project for minting NFTs on Immutable zkEVM",
     "image": "https://pahoma.github.io/sample-project-metadata/collection.webp",
     "external_link": "https://docs.immutable.com/docs/zkEVM/build-game/create-game-assets/" 
 }
